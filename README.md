@@ -17,35 +17,12 @@ Commodity Explorer – Browse and view crop-wise historical and market data.
 
 Modern UI Design – Clean, responsive layout with smooth visuals.
 
-🛠️ Technology Stack
-
-Frontend: HTML, CSS, JavaScript
-
-Backend: Flask (or update based on your actual backend)
-
-Data Source: Public commodity price datasets / APIs
-
-Machine Learning: Basic regression or forecasting model (optional)
-
-📂 Project Structure (Example)
-│── static/
-│   ├── css/
-│   ├── js/
-│   └── images/
-│── templates/
-│   ├── index.html
-│   ├── commodity.html
-│   └── prediction.html
-│── data/
-│── app.py
-│── model.pkl
-│── README.md
 
 ▶️ How to Run
 
 Clone this repository:
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/eesub799/Crop-price-prediction
 
 
 Install required packages:
